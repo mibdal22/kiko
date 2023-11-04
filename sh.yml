@@ -1,3 +1,4 @@
+name: fisrt
 on:
   workflow_dispatch:
 
