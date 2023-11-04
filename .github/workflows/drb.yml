@@ -1,3 +1,4 @@
+name: Wi
 on:
   workflow_dispatch:
 
